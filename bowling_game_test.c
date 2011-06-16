@@ -38,5 +38,5 @@ static void test_one_spare() {
 int main() {
     test_gutter_game();
     test_all_ones();
-    //test_one_spare();
+    test_one_spare();
 }
