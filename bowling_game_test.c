@@ -1,6 +1,8 @@
 // gcc -std=c99 -Wall bowling_game_test.c && ./a.out
 
 #include "bowling_game.h"
+#include "bowling_game.c"
+
 #include <assert.h>
 #include <stdbool.h>
 
